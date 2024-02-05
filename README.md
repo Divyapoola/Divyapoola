@@ -22,4 +22,4 @@ https://colab.research.google.com/drive/1lkeFjSNO7ynFaHHCnAi5fO0lnHXqD0sy?usp=sh
 
 
 PPT LINK:
-https://colab.research.google.com/corgiredirector?site=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1nFnQO58azdFqM2A75hxiJ8WUvib78D7H%2Fedit%3Fusp%3Dsharing%26ouid%3D112259884849854760855%26rtpof%3Dtrue%26sd%3Dtrue
+https://docs.google.com/presentation/d/1nFnQO58azdFqM2A75hxiJ8WUvib78D7H/edit?usp=sharing&ouid=112259884849854760855&rtpof=true&sd=true
