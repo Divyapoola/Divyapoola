@@ -13,3 +13,8 @@ Nearest Neighbors (KNN) Classifier, Ridge Logistic Regression, K-Means Clusterin
 Machine (SVM) Classifier.
 
 Compare the results to recommend the best Classification Model.
+COLAB LINK:
+
+
+
+PPT LINK:
